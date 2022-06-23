@@ -51,7 +51,7 @@ Partial Class Form1
         Me.LSTDisplay.ItemHeight = 15
         Me.LSTDisplay.Location = New System.Drawing.Point(455, 107)
         Me.LSTDisplay.Name = "LSTDisplay"
-        Me.LSTDisplay.Size = New System.Drawing.Size(1048, 559)
+        Me.LSTDisplay.Size = New System.Drawing.Size(872, 499)
         Me.LSTDisplay.TabIndex = 2
         '
         'Form1
